@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a second-year PhD candidate in Applied Mathematics at [TU Berlin](https://www.tu.berlin/imageanalysis) under the supervision of [Prof. Gabriele Steidl](https://page.math.tu-berlin.de/~steidl/).
+I am a third-year PhD candidate in Applied Mathematics at [TU Berlin](https://www.tu.berlin/imageanalysis) under the supervision of [Prof. Gabriele Steidl](https://page.math.tu-berlin.de/~steidl/).
 
 My interests lie in optimal transport, primarily in Wasserstein gradient flows, and in kernel methods.
 I am currenly learning more about metric gradient flows for other geometries, e.g., like SVGD.
