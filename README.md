@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am a third-year PhD candidate in Applied Mathematics at [TU Berlin](https://www.tu.berlin/imageanalysis) under the supervision of [Prof. Gabriele Steidl](https://page.math.tu-berlin.de/~steidl/).
-In May 2026, I will joint Massimo Fornasier's group at TU Munich as a Postdoc.
+In May 2026, I will join [Massimo Fornasier's](https://www.math.cit.tum.de/math/personen/professuren/fornasier-massimo/) Applied Numerical Analysis group at TU Munich as a Postdoc.
 
 My interests lie in optimal transport, primarily in Wasserstein gradient flows, and in kernel methods.
 
