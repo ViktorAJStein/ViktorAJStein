@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I am a third-year PhD candidate in Applied Mathematics at [TU Berlin](https://www.tu.berlin/imageanalysis) under the supervision of [Prof. Gabriele Steidl](https://page.math.tu-berlin.de/~steidl/).
-In May 2026, I will join [Massimo Fornasier's](https://www.math.cit.tum.de/math/personen/professuren/fornasier-massimo/) Applied Numerical Analysis group at TU Munich as a Postdoc.
+I am a Postdoc at TU Munich in [Massimo Fornasier's](https://www.math.cit.tum.de/math/personen/professuren/fornasier-massimo/) Applied Numerical Analysis group and a junior member of the [Munich Center for Machine Learning](https://mcml.ai/).
+I completed my PhD in Applied Mathematics at [TU Berlin](https://www.tu.berlin/imageanalysis) under the supervision of [Prof. Gabriele Steidl](https://page.math.tu-berlin.de/~steidl/) and as part of the [Berlin Mathematical School](https://www.math-berlin.de/).
 
 My interests lie in optimal transport, primarily in Wasserstein gradient flows, and in kernel methods.
 
@@ -12,4 +12,5 @@ Here you will find the code for the following projects.
 * SympFormer: Accelerated attention blocks via Inertial Dynamics on Density Manifolds
 
 ### Contact
+viktor[dot]stein[at]tum.de
 stein[at]math[dot]tu-berlin[dot]de
