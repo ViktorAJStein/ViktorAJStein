@@ -10,6 +10,7 @@ Here you will find the code for the following projects.
 * [Wasserstein Gradient Flows of MMD Functionals with Distance Kernel and Cauchy Problems on Quantile Functions](https://arxiv.org/abs/2408.07498) (see also [this](https://royalsocietypublishing.org/rsta/article-abstract/383/2298/20240243/236298/Wasserstein-gradient-flows-of-maximum-mean?redirectedFrom=fulltext) follow-up paper)
 * [Accelerated Stein variational gradient flow](https://link.springer.com/chapter/10.1007/978-3-032-03921-7_9)
 * [SympFormer: Accelerated attention blocks via Inertial Dynamics on Density Manifolds](https://github.com/ViktorAJStein/SympFormer)
+* [Two-Sample Testing with Joint Comparison Ranks](https://github.com/ViktorAJStein/joint-comparison-ranks)
 
 ### Contact
 viktor[dot]stein[at]tum.de
